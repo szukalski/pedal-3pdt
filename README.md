@@ -19,4 +19,4 @@ There is no support supplied or guaranteed for the PCB. I have built it and it w
 
 ## PCB image
 
-![3PDT](3pdt-v1.png)
+![3PDT](3pdt_v1.png)
